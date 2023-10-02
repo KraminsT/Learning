@@ -1,0 +1,12 @@
+
+/*to reffer to "id" you put # in front of line
+#main-title {
+    color: rgb(112, 216, 77);
+} */
+#main-head {
+    color:rgb(181, 50, 50)
+}
+/* to reffer to 'class' put "." in front of line*/
+.main-title {
+    color: blueviolet;
+}
