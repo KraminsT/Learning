@@ -1,0 +1,14 @@
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: antiquewhite;
+    background-image: url(vannasistaba.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center cemter;
+}
+
+.title {
+    color: rgb(79, 90, 11);
+    text-align: center;
+}
