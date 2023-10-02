@@ -1,12 +1,37 @@
 
-/*to reffer to "id" you put # in front of line
-#main-title {
+/* 1st class
+____
+to reffer to "id" you put # in front of line
+--> #main-title {
     color: rgb(112, 216, 77);
-} */
-#main-head {
+} 
+--> #main-head {
     color:rgb(181, 50, 50)
 }
-/* to reffer to 'class' put "." in front of line*/
+*/
+/* to reffer to 'class' put "." in front of line
+
 .main-title {
     color: blueviolet;
+}
+*/
+
+/*
+--------------------------------------------
+2nd class
+
+*/
+.title {
+    font-size: 20px;
+    color:rgb(57, 111, 212);
+    font-weight: normal;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+    
+}
+
+.paragraph {
+    line-height: 1.5;
 }
