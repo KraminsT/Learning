@@ -8,7 +8,7 @@
     background-color: skyblue;
 
 }
-
+/*borders are all around similar to margins but different*/
 .box2 {
     background-color: rgb(107, 57, 21);
     border-left: 15px solid rgb(176, 108, 59);
