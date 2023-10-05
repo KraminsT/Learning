@@ -1,0 +1,10 @@
+.box {
+    /*samazina robežas līdz ar saturu*/
+    /*inline doesn't allow to change and modify it's own dimensions*/
+    /*inline-block does react to modifications*/
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    background-color: blueviolet;
+}
