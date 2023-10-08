@@ -1,3 +1,8 @@
+.box-wrapper {
+    width: 100%;
+    text-align: center;
+}
+
 .box{
    width: 100px;
    height: 100px;
@@ -9,4 +14,7 @@
    margin-right: auto;
    /*one more way to center shorter is -->> margin: 0 auto;
    '0' works in x axis 'auto' works in y axis; */
+   display: inline-block;
 }
+/* 'box-wrapper' is parent for 'box'
+display block is centered with 'margin: 0 auto;'
