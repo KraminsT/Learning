@@ -1,21 +1,25 @@
 .flex-container {
     background-color: lightblue;
     /*display:flex orders every box in one line*/
-    display: flex
+    display: flex;
+    /*'flex-wrap' transfers boxes to next lines if not enough space*/
+    /*flex-wrap: wrap;*/
+    justify-content: center;
 }
 
 .flex-item {
     background-color: mediumseagreen;
     border: 1px solid rebeccapurple;
     color: white;
+    flex-basis: 20%;
 }
 
 .flex-item-1 {
-
+   
 }
 
 .flex-item-2 {
-
+    
 }
 
 .flex-item-3 {
@@ -27,3 +31,4 @@
 * {
     box-sizing: border-box;
 }
+/*'flex-shrink' shrinks boxes. Bigger the #nr smaller the box*/
