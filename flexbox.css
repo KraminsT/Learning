@@ -1,0 +1,29 @@
+.flex-container {
+    background-color: lightblue;
+    /*display:flex orders every box in one line*/
+    display: flex
+}
+
+.flex-item {
+    background-color: mediumseagreen;
+    border: 1px solid rebeccapurple;
+    color: white;
+}
+
+.flex-item-1 {
+
+}
+
+.flex-item-2 {
+
+}
+
+.flex-item-3 {
+
+}
+
+/*  ' * ' applicable to all elements*/
+/* 'box-sizing: border-box' means all paddings and borders will be included in box width without making the box more wider*/
+* {
+    box-sizing: border-box;
+}
