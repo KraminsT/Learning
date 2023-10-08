@@ -17,4 +17,5 @@
    display: inline-block;
 }
 /* 'box-wrapper' is parent for 'box'
-display block is centered with 'margin: 0 auto;'
+display block is centered with 'margin: 0 auto;',
+as for 'display: inline-block' have to have bigger parent so child has a place/space to be positioned*/
