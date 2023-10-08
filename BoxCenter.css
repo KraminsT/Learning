@@ -1,0 +1,12 @@
+.box{
+   width: 100px;
+   height: 100px;
+   background-color: aquamarine;
+   margin-top: 0;
+   margin-bottom: 0;
+   /*margin left & right auto does communicate with one another and puts the info in center*/
+   margin-left: auto;
+   margin-right: auto;
+   /*one more way to center shorter is -->> margin: 0 auto;
+   '0' works in x axis 'auto' works in y axis; */
+}
