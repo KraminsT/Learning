@@ -1,7 +1,21 @@
 .box{
-    position: absolute;
-    /*top: 100px;
-    right: 10px;*/
+    position: relative;
+    background-color: aqua;
+    width: 150px;
+    height: 100px;
+    margin-top: 30px;
+    margin-left: 80px;
+    
+
+    /*position: absolute;
+    top: 100px;
+    right: 10px;
     bottom: 0px;
-    left: 100px;
+    left: 100px;*/
+}
+
+.box-x{
+    position: absolute;
+    right:0;
+    bottom: 0;
 }
