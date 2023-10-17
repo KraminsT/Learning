@@ -1,0 +1,9 @@
+.text{
+    font-size: 25px;
+    color: firebrick;
+}
+
+/*makes text change color, when hovering over it*/
+.text:hover{
+    color:burlywood
+}
