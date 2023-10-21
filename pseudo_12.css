@@ -1,10 +1,15 @@
-.text{
+/*.text{
     font-size: 25px;
     color: firebrick;
 }
 
-/*makes text change color, when hovering over it*/
+/*makes text change color, when hovering over it
 .text:hover{
     color:burlywood
 }
-margin
+margin*/
+
+.input{
+    width: 100px;
+    height: 20px;
+}
